@@ -29,10 +29,25 @@ Si bien puede parecer que el protagonismo lo toma el resultado de esta intervenc
 
 "El arte generativo puede adoptar muchas formas, incluidas las artes visuales, la música e incluso las artes escénicas. El proceso de creación de arte generativo implica definir un conjunto de reglas o instrucciones que rigen cómo se generará la obra de arte. Estas reglas pueden ser simples o complejas, dependiendo del resultado deseado. El arte resultante puede ser interactivo, dinámico y en constante cambio, según los parámetros establecidos por el artista. El arte generativo desafía las nociones tradicionales de autoría y creatividad, ya que a menudo es el algoritmo o sistema el que produce la obra, en lugar del artista".
 
-Sol LeWitt - Composition Gallery
+##### Sol LeWitt - Composition Gallery
 
 "El arte generativo se refiere a un arte que se crea total o parcialmente a través de un sistema autónomo. Este sistema puede ser independiente o no humano, capaz de determinar características que de otro modo serían decididas por el artista. El sistema generativo puede actuar como el creador o como un colaborador con el artista. El arte generativo a menudo se refiere a obras generadas algorítmicamente por computadoras, donde el sistema desempeña un papel significativo en el proceso de creación".
 
 
 
+#### Cuadro comparativo
+
+| Aspecto             | Diseño Generativo                                                                 | Arte Generativo                                                                 | Diseño Tradicional                                                                 |
+|---------------------|-----------------------------------------------------------------------------------|-------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
+| **Cómo se crea**     | El humano trabaja junto con la máquina y el entorno; usa programas y matemáticas para probar muchas opciones. | Se crean reglas o sistemas que generan arte solos o con poca ayuda del artista. | El diseñador usa su experiencia y herramientas tradicionales para crear algo.    |
+| **Herramientas**     | Programas avanzados, inteligencia artificial y algoritmos que prueban ideas.     | Sistemas que siguen instrucciones creadas por el artista, como programas o algoritmos. | Lápices, pinceles, programas de dibujo o diseño como Photoshop o AutoCAD.        |
+| **Rol del creador**  | Ayuda a la máquina dándole reglas y revisa las opciones que genera.              | Crea las reglas y deja que el sistema haga el arte; a veces trabaja junto al sistema. | Hace todo el trabajo creativo por sí mismo, tomando todas las decisiones.        |
+| **En qué se enfoca** | Crear soluciones prácticas (como edificios o piezas) probando muchas ideas.      | Crear obras artísticas que pueden cambiar o ser interactivas, basándose en las reglas dadas. | Crear algo único que cumpla con lo que se necesita, como un dibujo o un diseño.  |
+| **Necesita tecnología** | Sí, mucha; sin programas y algoritmos no funciona.                            | Sí, necesita sistemas o programas para generar los resultados.               | No tanto, depende más de las habilidades del diseñador que de las máquinas.      |
+| **Resultado final**  | Diseños funcionales (resistentes, ligeros, prácticos, etc.).                    | Obras artísticas únicas, que a veces son dinámicas o cambian con el tiempo.   | Productos únicos, hechos a mano o con programas, según lo que se necesite.       |
+
+
+#### Opinión personal acerca del diseño generativo
+
+El diseño generativo es una forma innovadora de trabajar que utiliza algoritmos, inteligencia artificial y el poder computacional actual para llegar a soluciones creativas y eficientes. Más que ser una simple herramienta, se convierte en un "compañero de trabajo" por así decirlo que permite ver diferentes posibilidades y generar diseños originales que evolucionan constantemente. Este enfoque ahorra recursos y tiempo, mientras nos abre la puerta a ideas que, de forma tradicional, quizá nunca habríamos considerado. Es una manera práctica y poderosa de abordar proyectos relacionados al entretenimiento digital y a muchos otros campos distintos a este.
 
