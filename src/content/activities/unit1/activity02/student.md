@@ -19,5 +19,9 @@ URL : https://editor.p5js.org/pattvira/sketches/1jhHeA9Bg
 
 Proyecto dónde se captura la cámara y dibuja con elipses lo que se enfoque con ella.
 
+![Imagen](https://github.com/jfUPB/interactivos2-sebastr008/blob/main/src/content/activities/unit1/activity02/ejemplo2.png)
+
+
+
 
 
