@@ -15,5 +15,21 @@ Las posibles influencias son el arte minimalista y caótico ya que solo se aprec
 
 ![image](../../../../assets/imgAct3-2.png)
 
+Esta imagen se ve que intenta simular un poco lo análogo con mediante imperfecciones en el algoritmo principal.
+
+Quizá la influencia sean pinturas con bastante variedad de colores y formas abstractas
+
+
+##### Ben Kovachs
+
+###### Biografía
+
+Ben Kovach es un artista visual nacido en Burlington, Vermont, que crea arte algorítmico generativo con una estética naturalista. Descubrió los beneficios del código procedural en 2017, lo que le permitió explorar rápidamente sus ideas artísticas y guardar sus elecciones estilísticas para usos futuros. Kovach ha lanzado dos colecciones de largo formato, Edifice y 100 PRINT, a través de Art Blocks y Bright Moments, respectivamente. Su objetivo es explorar el vasto espacio de resultados potenciales que permite la computación junto con el mundo.
+
+###### Inertia
+
+
+
+
 
 
