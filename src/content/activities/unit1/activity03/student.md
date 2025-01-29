@@ -28,6 +28,20 @@ Ben Kovach es un artista visual nacido en Burlington, Vermont, que crea arte alg
 
 ###### Inertia
 
+![image](../../../../assets/inertia.png)
+
+Posiblemente esta obra fue creada mediante patrones matemáticos complejos con variaciones en el algoritmo del artista que aún no comprendo del todo bien.
+
+Este artista también veo que tiene influencias minimalistas, quizá sea algo común que tengan todos los artistas generativos. Es lo que más denoto cuando veo estas pinturas, o al menos, son las que más me llaman la atención. 
+
+
+###### Manufactured Turbulence
+
+![image](../../../../assets/turbulence.jpg)
+
+Esta obra parece más de lo mismo, algoritmos quizá parametrizados porque en la página hay variaciones de esta pintura en donde los resultados son un poco diferentes entre sí.
+
+
 
 
 
