@@ -22,9 +22,15 @@ URL: https://editor.p5js.org/generative-design/sketches/P_2_2_6_02
 
 El código se encarga de generar trazos al rededor del recorrido que haya hecho el mouse con el click presionado, la cantidad de trazos varia segun la cantidad de joints que le hayas puesto.
 
+![image](../../../../assets/act5img5.png)
+
 La primera variación que le hice fue modificar la velocidad a la que se hacen los trazos.
 
 La segunda variación que le hice al código fue modificar la cantidad de joints que se generan cada vez que se dibuja algo en la pantalla
+
+![image](../../../../assets/act5img4.png)
+
+Esta aplicacion se podría modificar para generar piezas artísticas únicas también usando diferentes tipos de sensores como acelerometros
 
 
 
