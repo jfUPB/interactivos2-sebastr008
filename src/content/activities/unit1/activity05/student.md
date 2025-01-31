@@ -16,5 +16,16 @@ La segunda variación que hice la hice sobre la primera, cambié el tamaño de c
 
 Las posibles aplicaciones que le veo a este programa es la creación de puzzles interactivos en dónde por ejemplo tengas que construir una con la ayuda de un sensor que capte el movimiento de tus ojos y así dar la impresión de que estás moviendo la imagen con tu mente
 
+##### Ejemplo 2: 
+
+URL: https://editor.p5js.org/generative-design/sketches/P_2_2_6_02
+
+El código se encarga de generar trazos al rededor del recorrido que haya hecho el mouse con el click presionado, la cantidad de trazos varia segun la cantidad de joints que le hayas puesto.
+
+La primera variación que le hice fue modificar la velocidad a la que se hacen los trazos.
+
+La segunda variación que le hice al código fue modificar la cantidad de joints que se generan cada vez que se dibuja algo en la pantalla
+
+
 
 
