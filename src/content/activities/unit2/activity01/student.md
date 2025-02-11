@@ -12,5 +12,13 @@ El potencial que tiene el público de participar activamente en estos eventos en
 
 Siento que todo esto se puede llevar a otro nivel, dónde el público pueda participar más activamente con el show en vivo, quisiera que el público pudiera manipular visuales, generar contenido visual, auditivo, que tuvieran más maneras de expresar que tanto están disfrutando del evento.
 
-##### 
+##### Eventos eSports
+
+Este público es bastante parecido al del baloncesto, solo que prácticamente no tienen participación activa con el evento en vivo. El público simplemente ánima, lleva sus carteles, trompetas y poco más.
+
+Los jugadores como tal tienen audífonos con cancelación de ruido para no distraerse o no obtener ventaja del público ya que pueden brindar información importante del rival. Tampoco los pueden tocar ya que se encuentran en un escenario cuidado por guardas de seguridad. 
+
+Igualmente siento que esto tiene un potencial muy grande en dónde el público pueda tener más participación en medios tiempos, o al momento previo de un partido. Cosas como por ejemplo sistemas interactivos de encuestas en dónde por ejemplo dependiendo que mano levantes apoyas un equipo o a otro, y cuando levantes la mano, un foco te alumbra diciendo que equipo estás apoyando.
+
+
 
