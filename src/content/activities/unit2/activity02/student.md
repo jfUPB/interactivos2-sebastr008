@@ -6,7 +6,22 @@ En un partido de baloncesto podríamos implementar que para el show de medio tie
 
 ###### Outputs: 
 
-Un posible output sería que según que tribuna esté saltando y aplaudiendo más fuerte, unas luces alumbren la tribuna ganadora, despúes con ayuda de unos cañones lanza camisetas y luces, se alumbre en donde va a caer una camisa o cualquier premio que se ponga dentro del cañón. Se pueden añadir efectos de sonido al momento de lanzar y al momento de que alguien agarre el premio.
+Un posible output podría ser que tanta fue la intensidad de los saltos y de los aplausos al final del partido o al medio tiempo generar imagenes modificadas según estos parámetros, algo parecido a lo que hizo Patrick Hubner con el branding de la marca de vino en dónde el clima afectaba cada botella de vino. Aquí podríamos hacer que según que tanto grite la gente, que tanto se mueva podamos generar una especie de ilustración en dónde se muestren las jugadas más importantes de cada partido.
 
-Una vez alguien haya ganado será alumbrado nuevamente mientras suena una música parecida a las que suenan cuando ganas un Jackpot en un casino.
+
+##### Conciertos
+
+###### Inputs: 
+
+###### Outputs:
+
+
+##### Eventos eSports
+
+###### Inputs: 
+
+###### Outputs:
+
+
+
 
