@@ -24,7 +24,11 @@ Podríamos hacer una narrativa parecida a "Un show más" en dónde antes de que 
 
 ###### Inputs: 
 
-###### Outputs:
+Entre medio de las partidas, podríamos recopilar los datos de la partida más reciente que se jugó, mejores jugadas, mejores objetivos logrados, etc, y usar estos datos como inputs.
+
+###### Outputs y storytelling: 
+
+El output sería un vídeo dónde mediante algoritmos e IA se cuente a modo de narración el resumen de la partida, muestre en diferentes planos las mejores jugadas, que le ponga música épica etc.
 
 
 
