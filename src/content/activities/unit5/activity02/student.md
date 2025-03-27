@@ -12,15 +12,23 @@ El DJ pondrá una base musical, pero cada persona la transformará con su vibra 
 
 ### Narrativa:
 
-Cruzas la entrada y, de inmediato, lo sientes: la música no es un fondo, es una extensión de ti. Un bajo sutil pulsa en tus audífonos, como si estuviera esperando algo. No suena igual que la última vez. Nunca suena igual.
+Dicen que hay un sitio al que no se llega por accidente. No aparece en mapas ni responde a coordenadas, pero quienes han estado ahí aseguran que, una vez que entras, no vuelves a escuchar la música de la misma manera.
 
-Das un paso y el ritmo se ajusta. Mueves los brazos y la melodía fluctúa. Tu vibra se convierte en sonido. No es solo movimiento, es expresión. Cada giro, cada cambio de dirección altera la frecuencia de lo que escuchas. No puedes verlo, pero puedes sentirlo: el espacio también tiene su propia aura.
+Todos coinciden en que no es solo un club, ni una discoteca, ni un lugar común. Es un espacio vivo, un organismo hecho de sonido y movimiento, de vibraciones que se entrelazan y cambian con cada persona que cruza su puerta.
 
-A tu alrededor, otros cuerpos vibran en su propia frecuencia. Ves a alguien girar y su sonido se funde con el tuyo por un instante, como dos ondas cruzándose en el agua. Un grupo más allá se mueve al unísono y sus melodías se sincronizan, formando un coro efímero que solo ellos pueden escuchar. Pero en cuanto se separan, cada quien regresa a su propio universo sonoro.
+No hay dos personas que lo perciban igual. Cada cuerpo, cada paso, cada pensamiento deja una marca distinta en el aire. Para algunos, la música se convierte en un pulso acelerado que sigue el ritmo de su energía incontrolable. Para otros, el sonido se expande y se vuelve etéreo, como si el espacio les diera un respiro. Y hay quienes sienten que la melodía apenas los roza, como si el lugar estuviera esperando que se abran por completo.
 
-Sigues explorando y descubres algo más. El espacio también tiene una vibra. En algunas zonas, el ritmo se acelera, como si la energía de quienes han estado allí antes se hubiera quedado atrapada en el aire. Otras parecen vacías, silenciosas, como si el tiempo avanzara más lento en ellas. Experimentas, cruzas los límites invisibles entre estos mundos musicales y cada vez que lo haces, tu canción cambia.
+Dicen que cuando entras por primera vez, no lo notas. Al principio, solo parece una pista de baile envuelta en luces tenues, con un DJ que marca el compás. Pero si prestas atención, te das cuenta de que la música no sigue un patrón predecible. No es igual en cada rincón. Se pliega a los cuerpos, se nutre de ellos. Hay lugares donde la melodía se estira, otras donde desaparece por completo.
 
-No hay una pista de baile fija, no hay un solo track sonando. Solo hay vibras encontrándose, separándose, transformándose. No sabes si es la música la que te mueve o si eres tú quien la está creando.
+Algunos cuentan que el suelo parece recordar tus pasos. Que el aire vibra distinto cuando cierras los ojos y dejas que el ritmo te guíe. Que si te quedas quieto el tiempo suficiente, el espacio empieza a susurrarte, a revelarte su historia a través de frecuencias ocultas.
+
+Otros dicen que el lugar responde a tu estado de ánimo, que proyecta tu energía en forma de sonido. Que si llegas con dudas, la música se fragmenta en ecos dispersos; si te abandonas a la experiencia, todo se alinea y te envuelve.
+
+Pero nadie ha encontrado un patrón definitivo. Porque el lugar no es el mismo dos veces. No es solo un sitio donde se baila; es un lugar donde se escucha, donde cada persona, sin saberlo, deja una huella invisible, una vibración única que se suma a la memoria de las paredes.
+
+Y cuando sales, ya no eres el mismo. La música sigue contigo, aunque el mundo exterior parezca menos resonante, más estático. Y en algún rincón de tu mente, te preguntas si, al moverte, sigues dejando un eco en aquel lugar que nunca deja de latir.
+
+
 
 
 
