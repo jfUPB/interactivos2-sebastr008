@@ -1,5 +1,5 @@
 
-#### Resumen del concepto y narrativa
+#### Síntesis
 
 Auralis es una silent disco interactiva donde la música se transforma en tiempo real según el movimiento y la vibra única de cada persona y del espacio que la rodea.
 
@@ -13,9 +13,8 @@ Auralis es una silent disco interactiva donde la música se transforma en tiempo
 | `mouseReleased()`| `mouseReleased()`        | -                            | Finaliza el arrastre                                                                    |
 | Click en canvas  | `toggleSound()`          | click                        | Inicia la reproducción de sonido                                                        |
 
-### Proceso (algoritmo)
+### Processing
 
-#### Descripción lógica
 
 1. Se carga un archivo de sonido y se pasa por un ecualizador de tres bandas.
 2. El usuario puede arrastrar una esfera blanca sobre el lienzo.
@@ -23,7 +22,7 @@ Auralis es una silent disco interactiva donde la música se transforma en tiempo
 4. La posición vertical (`posY`) ajusta la ganancia de dicha banda, con valores de -12 a +12 dB.
 5. El filtro se actualiza en tiempo real, permitiendo manipular el sonido mientras se arrastra.
 
-### Pseudocódigo simplificado
+### Código simplificado
 
 ```js
 if (dragging) {
