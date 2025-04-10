@@ -20,3 +20,6 @@ El comportamiento que requiero es una respuesta directa con la bolita que estar�
 | gainValue      | draw()                          | Calculado a partir de `posY`, determina cuánto se amplifica o atenúa la banda          |
 
 
+PROTOTIPO
+
+https://editor.p5js.org/sebastr008/sketches/Yqz3kgCp6
