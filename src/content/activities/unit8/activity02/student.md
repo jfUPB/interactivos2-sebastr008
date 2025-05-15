@@ -3,9 +3,9 @@
 - Título
 - Concepto y narrativa
 - ¿Como se simulará esto?
+- Diseño IPO
 - Video demostrativo
 - Tutorial 
-- Diseño IPO
 - Tecnologías usadas
 - Síntesis
 
