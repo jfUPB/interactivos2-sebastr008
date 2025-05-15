@@ -104,6 +104,13 @@ La interfaz gráfica (una bolita arrastrable) determina:
 
 Este control ajusta un parámetro llamado *ganancia* en tiempo real, solo para ese usuario.
 
+### Tecnologías usadas
+
+- p5.js
+- p5.sound
+- socket.io
+- node.js + Express
+
 
 
 
